@@ -5,6 +5,7 @@
 node_modules/
 
 #dbConfig.js 
-config/dbConfig.js
+dbConfig.js
+
 
 

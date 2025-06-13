@@ -1,7 +1,7 @@
 // Express server
 import express from "express";
 import bodyParser from "body-parser"; 
-import userRoutes from "./routes/userRoute.js";
+import userRoutes from "./routes/userRoutes.js";
 import applyMiddlewares from './middlewares/index.js';
 
 
